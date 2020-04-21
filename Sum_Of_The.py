@@ -12,8 +12,3 @@ def SumOfThe(N,data):
             x = data[i]
     return x
         
-        
-
-N = 5
-data = [10, -25, -45, -35, 5]
-print(SumOfThe(N,data))
